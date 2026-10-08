@@ -1,0 +1,7 @@
+flask
+speechrecognition
+pyttsx3
+pywhatkit
+pyautogui
+selenium
+webdriver-manager
